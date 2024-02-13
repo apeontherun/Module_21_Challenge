@@ -6,7 +6,7 @@ Module 21 Challenge for RICE FinTech Assignment
 
 In this assignment we were given the task to create a token, create a crowdsale contract, and create a deployer contract. Finally we were asked to deploy and test the crowdsale on the local blockchain.
 
-Listed below is the sequence of screenshots to to deploy crowdsale to the local blockchain.
+Listed below is the sequence of screenshots to deploy crowdsale to the local blockchain.
 
 ![Screenshot 2024-02-10 163224 21 1](https://github.com/apeontherun/Module_21_Challenge/assets/28538519/87bfdd04-34ce-47cf-9247-1fe2d0d299ba)
 
